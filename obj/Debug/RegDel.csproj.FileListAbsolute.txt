@@ -1,0 +1,29 @@
+C:\Users\boc\source\repos\RegDel\obj\Debug\RegDel.Form1.resources
+C:\Users\boc\source\repos\RegDel\obj\Debug\RegDel.Properties.Resources.resources
+C:\Users\boc\source\repos\RegDel\obj\Debug\RegDel.csproj.GenerateResource.cache
+C:\Users\boc\source\repos\RegDel\obj\Debug\RegDel.csproj.CoreCompileInputs.cache
+C:\Users\boc\source\repos\RegDel\bin\Debug\RegDel.exe.config
+C:\Users\boc\source\repos\RegDel\bin\Debug\RegDel.exe
+C:\Users\boc\source\repos\RegDel\bin\Debug\RegDel.pdb
+C:\Users\boc\source\repos\RegDel\obj\Debug\RegDel.exe
+C:\Users\boc\source\repos\RegDel\obj\Debug\RegDel.pdb
+C:\Users\boc\source\repos\RegDel-vs4.5\bin\Debug\RegDel.exe.config
+C:\Users\boc\source\repos\RegDel-vs4.5\bin\Debug\RegDel.exe
+C:\Users\boc\source\repos\RegDel-vs4.5\bin\Debug\RegDel.pdb
+C:\Users\boc\source\repos\RegDel-vs4.5\obj\Debug\RegDel.Form1.resources
+C:\Users\boc\source\repos\RegDel-vs4.5\obj\Debug\RegDel.Properties.Resources.resources
+C:\Users\boc\source\repos\RegDel-vs4.5\obj\Debug\RegDel.csproj.GenerateResource.cache
+C:\Users\boc\source\repos\RegDel-vs4.5\obj\Debug\RegDel.csproj.CoreCompileInputs.cache
+C:\Users\boc\source\repos\RegDel-vs4.5\obj\Debug\RegDel.exe
+C:\Users\boc\source\repos\RegDel-vs4.5\obj\Debug\RegDel.pdb
+C:\Users\0063743\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\bin\Debug\RegDel.exe.config
+C:\Users\0063743\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\obj\Debug\RegDel.exe
+C:\Users\0063743\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\obj\Debug\RegDel.pdb
+C:\Users\cti\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\bin\Debug\RegDel.exe.config
+C:\Users\cti\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\obj\Debug\RegDel.exe
+C:\Users\cti\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\obj\Debug\RegDel.pdb
+C:\Users\cti\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\bin\Debug\RegDel.exe
+C:\Users\cti\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\bin\Debug\RegDel.pdb
+C:\Users\cti\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\obj\Debug\RegDel.Form1.resources
+C:\Users\cti\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\obj\Debug\RegDel.Properties.Resources.resources
+C:\Users\cti\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\obj\Debug\RegDel.csproj.GenerateResource.Cache

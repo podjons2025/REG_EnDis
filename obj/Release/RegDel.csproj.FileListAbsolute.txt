@@ -1,0 +1,8 @@
+C:\Users\cti\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\bin\Release\RegDel.exe.config
+C:\Users\cti\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\bin\Release\RegDel.exe
+C:\Users\cti\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\bin\Release\RegDel.pdb
+C:\Users\cti\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\obj\Release\RegDel.Form1.resources
+C:\Users\cti\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\obj\Release\RegDel.Properties.Resources.resources
+C:\Users\cti\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\obj\Release\RegDel.csproj.GenerateResource.Cache
+C:\Users\cti\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\obj\Release\RegDel.exe
+C:\Users\cti\Documents\Visual Studio 2015\Projects\RegDel-vs4.5\obj\Release\RegDel.pdb
